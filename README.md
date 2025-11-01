@@ -82,7 +82,7 @@ Algorithms are step‑by‑step procedures for solving problems: sorting, search
    - Cons: Requires extra memory and careful planning.
    - Example: Fibonacci with memoization, Knapsack, Longest Common Subsequence
 
-   <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/ddcc6f28-ebd4-481f-b155-da7479586441" />
+   <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/ec67ba76-73e9-4b5a-9e19-68034c42b19b" />
 
 5. **Backtracking**
 
@@ -90,6 +90,8 @@ Algorithms are step‑by‑step procedures for solving problems: sorting, search
    - Pros: Finds all possible valid solutions for constraint-based problems.
    - Cons: Can be slow unless you prune bad branches early.
    - Example: Solving Sudoku, N‑Queens, valid parentheses generation
+
+   <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/dd52676c-5fcf-43ed-b105-550900330294" />
 
 6. Randomized Algorithms
 
