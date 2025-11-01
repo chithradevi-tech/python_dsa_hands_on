@@ -46,7 +46,7 @@ Algorithms are step‑by‑step procedures for solving problems: sorting, search
 
    ---
 
-2. **Greedy Algorithms**
+2. **Greedy Algorithms** - **Greedy = Smart decision-making at each step**
 
    - What it does: Makes the best choice at each step based on what seems best right now.
    - Pros: Fast and simple.
