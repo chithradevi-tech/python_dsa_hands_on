@@ -44,6 +44,8 @@ Algorithms are step‑by‑step procedures for solving problems: sorting, search
 
    ![Image](https://github.com/user-attachments/assets/18ca0246-ab6d-43b9-96c4-dca154b554b6)
 
+   ---
+
 2. **Greedy Algorithms**
 
    - What it does: Makes the best choice at each step based on what seems best right now.
@@ -53,9 +55,16 @@ Algorithms are step‑by‑step procedures for solving problems: sorting, search
 
    <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/bf69fa4a-b030-4951-b465-4605b2718c36" />
 
+
    <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/bafd9da9-dcc3-463a-8089-fd828406c2de" />
 
+
+   <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/0dd1db4b-b8ef-42f9-9350-27a27b3f7ef4" />
+
+
    <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/efabf498-126d-42f8-8f97-01022a977eba" />
+
+   ---
 
 3. Divide & Conquer
 
