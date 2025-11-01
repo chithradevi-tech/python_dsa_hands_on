@@ -66,21 +66,25 @@ Algorithms are step‑by‑step procedures for solving problems: sorting, search
 
    ---
 
-3. Divide & Conquer
+3. **Divide & Conquer**
 
    - What it does: Splits a problem into smaller pieces, solves each one, then merges the results.
    - Pros: Efficient and works well for big data sets.
    - Cons: Can require recursion and careful implementation.
    - Example: Merge Sort, Quick Sort, binary search
 
-4. Dynamic Programming (DP)
+   <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/ddcc6f28-ebd4-481f-b155-da7479586441" />
+
+4. **Dynamic Programming (DP)**
 
    - What it does: Breaks a problem into subproblems and stores their results to avoid repeating work.
    - Pros: Very efficient for overlapping subproblems and optimization tasks.
    - Cons: Requires extra memory and careful planning.
    - Example: Fibonacci with memoization, Knapsack, Longest Common Subsequence
 
-5. Backtracking
+   <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/ddcc6f28-ebd4-481f-b155-da7479586441" />
+
+5. **Backtracking**
 
    - What it does: Tries building a solution step by step, and backs up when a choice leads nowhere.
    - Pros: Finds all possible valid solutions for constraint-based problems.
