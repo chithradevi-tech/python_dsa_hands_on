@@ -93,21 +93,25 @@ Algorithms are step‑by‑step procedures for solving problems: sorting, search
 
    <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/dd52676c-5fcf-43ed-b105-550900330294" />
 
-6. Randomized Algorithms
+6. **Randomized Algorithms**
 
    - What it does: Uses random choices during execution to potentially make tasks faster.
    - Pros: Good average-case performance and simplicity.
    - Cons: Results can vary, and it may fail in the worst case.
    - Example: Randomized QuickSort, Monte Carlo simulations, Rabin‑Karp string search
 
-7. Recursive Algorithms
+   <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/8b67e957-1759-4035-9bcb-8e0e68a9173f" />
+
+7. **Recursive Algorithms**
 
    - What it does: A function calls itself with smaller inputs until a base case is reached.
    - Pros: Clean and expressive for tree-like or mathematical problems.
    - Cons: Can lead to deep recursion and stack overflow if not careful.
    - Example: Factorial, Fibonacci (naive version)
 
-8. Search & Sorting Algorithms
+   <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/afd1edaa-6497-4ccf-b765-122f2c6af0fb" />
+
+8. **Search & Sorting Algorithms**
 
    - Purpose: Basic tools to retrieve or order data quickly.
    - Examples:
@@ -115,6 +119,8 @@ Algorithms are step‑by‑step procedures for solving problems: sorting, search
      Searching: Linear search, Binary search (for sorted lists)
 
      Sorting: Bubble sort (simple), Merge sort, Quick sort, Heap sort, Timsort (used in Python)
+
+     <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/5e22a795-13e2-46c6-b740-193a8794bd59" />
 
 ---
 
